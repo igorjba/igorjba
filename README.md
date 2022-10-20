@@ -1,6 +1,8 @@
-👋😊 Olá, eu sou o Igor Bahia 
+# **Igor Bahia** 😊 
 
 ##
+
+ ## 👋 Olá, bem vindo(a) ao meu GitHub!
 
 - 🔭 Sou desenvolvedor de software em formação
 - 🌱 Estou estudando desenvolvimento de software full stack e engenharia mecânica
