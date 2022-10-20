@@ -2,9 +2,7 @@
 
 ## 👋 Olá, bem vindo(a) ao meu GitHub!
 
-- 🔭 Sou desenvolvedor de software em formação
-- 🌱 Estou estudando desenvolvimento de software full stack e engenharia mecânica
-- 💖 Amo surfar e fotografar
+  Moro em Barra de Jacuipe, Bahia - Brasil. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/) e graduando em engenharia mecânica 🧰 na [Faculdade Estácio](https://estacio.br/). Trabalhei desde os 18 anos na indústria petroquímica como mecânico 🔧, tec. de manutenção 🛠️ e em seguida como tec. de planejamento 💻📈. Porém resolvi fazer transição de carreira para a área de programação. Adoro aprender coisas novas 📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚, fotografar 📸 ou jogar games online 👾 nas horas vagas.
 
 ##
 
