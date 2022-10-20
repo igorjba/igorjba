@@ -1,7 +1,7 @@
 ### Olá, eu sou o Igor Bahia 👋😊
 
-- 🔭 Sou desenvolvedor de software em formação ...
-- 🌱 Estou estudando desenvolvimento de software full stack e engenharia mecânica ...
+- 🔭 Sou desenvolvedor de software em formação
+- 🌱 Estou estudando desenvolvimento de software full stack e engenharia mecânica
 - 💖 Amo surfar e fotografar
 
 <div align="center">
