@@ -1,4 +1,4 @@
-###😊 Olá, eu sou o Igor Bahia 👋
+👋😊 Olá, eu sou o Igor Bahia 
 
 ##
 
