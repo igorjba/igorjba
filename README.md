@@ -1,15 +1,20 @@
 ### Olá, eu sou o Igor Bahia 👋😊
 
+  ##
+
 - 🔭 Sou desenvolvedor de software em formação
 - 🌱 Estou estudando desenvolvimento de software full stack e engenharia mecânica
 - 💖 Amo surfar e fotografar
 
+  ##
+
 <div align="center">
   <a href="https://github.com/igorjba">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=igorjba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
