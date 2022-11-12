@@ -3,7 +3,7 @@
 ## 👋 Olá, bem vindo(a) ao meu GitHub!
 
 
-  Moro em Barra de Jacuipe, Bahia, Brasil. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia mecânica 🧰 na [Faculdade Estácio](https://estacio.br/). Trabalhei desde os 18 anos na indústria petroquímica como mecânico 🔧, tec. de manutenção 🛠️ e em seguida como tec. em planejamento de manutenção 💻📈. Porém resolvi fazer transição de carreira para a área de programação. Sou apaixonado por tecnologia e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas.
+  Tenho 33 anos, moro em Barra de Jacuipe, Bahia, Brasil. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia mecânica 🧰 na [Faculdade Estácio](https://estacio.br/). Trabalhei desde os 18 anos na indústria petroquímica como mecânico 🔧, tec. de manutenção 🛠️ e em seguida como tec. em planejamento de manutenção 💻📈. Porém resolvi fazer transição de carreira para a área de programação. Sou apaixonado por tecnologia e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas.
 
 ##
 
@@ -23,6 +23,7 @@
   <img align="center" title="C#" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
   <img align="center" title="Visual Studio Code (VS code)" alt="Igor-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
+  <img align="center" title="Node.js" alt="Igor-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="right" title="Meu nome é Igor" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
   </div>
 
