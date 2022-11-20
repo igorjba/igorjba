@@ -3,7 +3,7 @@
 ## 👋 Olá, bem vindo(a)!
 
 
-  Tenho 33 anos, moro em Barra de Jacuipe, Bahia, Brasil. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia mecânica 🧰 na [Faculdade Estácio](https://estacio.br/). Trabalhei desde os 18 anos na indústria petroquímica como mecânico 🔧, tec. de manutenção 🛠️ e em seguida como tec. em planejamento de manutenção 💻📈. Porém resolvi migrar para a área de programação. Sou apaixonado por tecnologia e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas.
+  Tenho 33 anos, moro em Barra de Jacuipe, Bahia, Brasil. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia mecânica 🧰 na [Faculdade Estácio](https://estacio.br/). Trabalhei desde os 18 anos na indústria petroquímica como mecânico industrial 🔧, tec. de manutenção 🛠️ e em seguida como tec. em planejamento de manutenção 💻📈. Porém resolvi migrar para a área de programação. Sou apaixonado por tecnologia e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas.
 
 ##
 
