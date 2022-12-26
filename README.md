@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 Igor Bahia 😊 
 	<a href="https://github.com/igorjba" target="_self">
 	</a>
