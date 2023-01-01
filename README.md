@@ -35,11 +35,14 @@ O meu nome é Igor Bahia 😊
   <img align="center" title="Visual Studio Code (VS code)" alt="Igor-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
   <img align="center" title="Node.js" alt="Igor-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" title="Olá, meu nome é Igor!" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
+  </div>
+  <div>
+  <img align="right" title="Olá, meu nome é Igor!" alt="Igor-image" height="150" style="border-radius:50px;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
   </div>
 
 ##  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
+  <br>
   <br>
   <br>
   <div align="center"> 
