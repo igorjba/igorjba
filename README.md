@@ -18,11 +18,11 @@ O meu nome é Igor Bahia 😊
   
 ##
 
-<div align="center">
+  <div align="center">
   <a href="https://github.com/igorjba">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=igorjba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide="/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  </div>
 
   <div align="center" style="display: inline_block"><br>
   <img align="center" title="JavaScript" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,6 +40,13 @@ O meu nome é Igor Bahia 😊
 
 ##  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
+  <br>
+  <br>
   <div align="center"> 
   <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Meu Linkedin" target="_blank"></a> 
+  </div>
+  <br>
+  <div align="center"> 
+  <a href="https://www.codewars.com/users/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/igorjba/badges/large" title="Meu Codewars" target="_blank"></a> 
  </div>
+	
