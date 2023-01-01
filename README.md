@@ -1,17 +1,8 @@
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> 
-	<a href="https://github.com/igorjba" target="_self">
-	</a>
-  Olá, bem vindo(a)! 
+<h1 align="center">Olá, bem vindo(a)!</h1>
 
-</h1>
+<h2 align="center">O meu nome é Igor Bahia</h2> 
 
-<h2 align="center">
-O meu nome é Igor Bahia 😊 
-	<a href="https://github.com/igorjba" target="_self">
-	</a>
-</h2>
 
 
   Tenho 33 anos, moro em Barra de Jacuipe, Bahia, Brasil. Sou apaixonado por tecnologia desde que me conheço por gente e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas. Sou interessado em técnologia desde a época do MIRC e ICQ, em 2022 tive meu primeiro contato com programação e iniciei minha jornada como aluno de Desenvolvimento de Software Full Stack. Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia da computação 🧰 na [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
