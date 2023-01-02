@@ -25,7 +25,7 @@ Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Aca
   <img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" title="Git" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
+<!--   <img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">   -->
   <img align="center" title="Visual Studio Code (VS code)" alt="Igor-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
   <img align="center" title="Node.js" alt="Igor-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -35,7 +35,7 @@ Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Aca
   </div>
 
 ##  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
+  <p align="left" title="Vizualizações do meu perfil"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
   <br>
   <br>
   <br>
@@ -43,6 +43,10 @@ Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Aca
   <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Meu Linkedin" target="_blank"></a> 
   </div>
   <br>
+	<div align="center"> 
+  <a href="https://www.frontendmentor.io/profile/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" title="Meu Frontend Mentor" target="_blank"></a> 
+  </div>
+<br>
   <div align="center"> 
   <a href="https://www.codewars.com/users/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/igorjba/badges/large" title="Meu Codewars" target="_blank"></a> 
  </div>
