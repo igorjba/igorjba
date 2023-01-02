@@ -35,7 +35,7 @@ Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Aca
   </div>
 
 ##  
-  <p align="left" title="Vizualizações do meu perfil"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
+  <p align="left" title="Visitors"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
   <br>
   <br>
   <br>
