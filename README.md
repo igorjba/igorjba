@@ -51,5 +51,4 @@ Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Aca
   <a href="https://www.codewars.com/users/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/igorjba/badges/large" title="Meu Codewars" target="_blank"></a> 
  </div>
 
- aaaa
 	
