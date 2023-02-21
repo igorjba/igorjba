@@ -1,6 +1,6 @@
 <table>
- <tr align="right"><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-en.md">:us: English</a></td></tr>
- <tr align="right"><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:brazil: Portuguese</a></td></tr>
+ <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme-en.md">:us: English</a></td></tr>
+ <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Portuguese</a></td></tr>
 </table>
 
 
