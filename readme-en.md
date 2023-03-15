@@ -8,10 +8,15 @@
 
 <h3 align="center">My name is Igor Bahia</h3> 
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;I live in Barra de Jacuipe, Bahia, Brazil. I've been passionate about technology for as long as I can remember and addicted to learning new things. 🔍📖. I usually go surfing 🏄‍♂️, read high fantasy books 📚🧙🐉 and take pictures 📸 in my free time. I've been interested in technology since the days of MIRC and ICQ, and in 2022 I had my first contact with programming and started my journey as a Full Stack Software Development student.
-I'm currently a Full Stack software developer 👨‍💻 in training at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software), pursuing a degree in software analysis and development 🧑‍💻 at [Universidade UNIFACS](https://www.unifacs.br/) eand pursuing a degree in computer engineering 🖥️ at [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
+- 📚🧙🐉 I am a huge fan of high fantasy books.
+- 🏄‍ I have been surfing since I was little.
+- 📸  I am fascinated by photography.
+- 🔍 I have been interested in technology since the days of MIRC and ICQ.
+- 📖 I had my first experience with programming in 2022.
+- 👨‍💻 I am currently studying to become a full-stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 🧑‍💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
+- 🖥️ I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 📫 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
   
 ##
 <details>
