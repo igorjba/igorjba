@@ -7,11 +7,17 @@
 
 <h3 align="center">O meu nome é Igor Bahia</h3> 
 
+- 📚🧙🐉 Sou aficionado por livros de alta fantasia.
+- 🏄‍ Desde pequeno, pratico surf.
+- 📸 Tenho fascínio por fotografia.
+- 🔍 Interesso-me por tecnologia desde a época do MIRC e ICQ.
+- 📖 Tive meu primeiro contato com programação em 2022.
+- 👨‍💻 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 🧑‍💻 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
+- 🖥️ Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 📫 Contate-me no linkedin: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Moro em Barra de Jacuipe, Bahia, Brasil. Sou apaixonado por tecnologia desde que me conheço por gente e viciado em aprender coisas novas 🔍📖. Costumo surfar 🏄‍♂️, ler livros de alta fantasia 📚🧙🐉 e fotografar 📸 nas horas vagas. Sou interessado em tecnologia desde a época do MIRC e ICQ, em 2022 tive meu primeiro contato com programação e iniciei minha jornada como aluno de Desenvolvimento de Software Full Stack.
-Sou desenvolvedor de software full stack 👨‍💻 em formação na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software), graduando em análise e desenvolvimento de software 🧑‍💻 na [Universidade UNIFACS](https://www.unifacs.br/) e graduando em engenharia da computação 🖥️ na [Faculdade Descomplica](https://descomplica.com.br/faculdade/).
-  
 ##
 <details>
   <summary>Ver mais...</summary>
