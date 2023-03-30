@@ -9,14 +9,15 @@
 <h3 align="center">My name is Igor Bahia</h3> 
 
 - 📚🧙🐉 I am a huge fan of high fantasy books.
-- 🏄‍ I have been surfing since I was little.
+- 🌊🏄‍ I have been surfing since I was little.
 - 📸  I am fascinated by photography.
-- 🔍 I have been interested in technology since the days of MIRC and ICQ.
-- 📖 I had my first experience with programming in 2022.
-- 👨‍💻 I am currently studying to become a full-stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
-- 🧑‍💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
-- 🖥️ I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
-- 📫 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
+- 🔍💻 I have been interested in technology since the days of MIRC and ICQ.
+- 📖💻 I had my first experience with programming in 2022.
+- 👨‍💻🎓 I am currently studying to become a full-stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
+- 🖥️📚 I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 👨‍💻🤓📖 Currently, I'm delving into 𝐑𝐞𝐚𝐜𝐭𝐉𝐒, 𝐀𝐏𝐈 𝐑𝐞𝐬𝐭, and 𝐒𝐐𝐋.
+- 📫👨‍💼 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
   
 ##
 <details>
