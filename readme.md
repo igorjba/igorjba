@@ -8,14 +8,15 @@
 <h3 align="center">O meu nome é Igor Bahia</h3> 
 
 - 📚🧙🐉 Sou aficionado por livros de alta fantasia.
-- 🏄‍ Desde pequeno, pratico surf.
+- 🌊🏄‍ Desde pequeno, pratico surf.
 - 📸 Tenho fascínio por fotografia.
-- 🔍 Interesso-me por tecnologia desde a época do MIRC e ICQ.
-- 📖 Tive meu primeiro contato com programação em 2022.
-- 👨‍💻 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
-- 🧑‍💻 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
-- 🖥️ Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
-- 📫 Contate-me no linkedin: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
+- 🔍💻 Interesso-me por tecnologia desde a época do MIRC e ICQ.
+- 📖💻 Tive meu primeiro contato com programação em 2022.
+- 👨‍💻🎓 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
+- 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 👨‍💻🤓📖 Atualmente, estou me aprofundando em 𝐑𝐞𝐚𝐜𝐭𝐉𝐒, 𝐀𝐏𝐈 𝐑𝐞𝐬𝐭 e 𝐒𝐐𝐋.
+- 📫👨‍💼 Contate-me no linkedin: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
 
 
 ##
