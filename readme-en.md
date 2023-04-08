@@ -4,9 +4,7 @@
 </table>
 
 
-<h1 align="center">Hello, welcome!</h1>
-
-<h3 align="center">My name is Igor Bahia</h3> 
+<h2 align="center">Hello, my name is Igor Bahia</h3> 
 
 - 📚🧙🐉 I am a huge fan of high fantasy books.
 - 🌊🏄‍ I have been surfing since I was little.
