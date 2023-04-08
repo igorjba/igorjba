@@ -28,16 +28,14 @@
 </details>
 	
   <div align="center" style="display: inline_block"><br>
-  <img align="center" title="JavaScript" alt="Igor-Js" height="30" width="40" src="https://github.com/igorjba?tab=repositories&q=&type=&language=javascript&sort=">
-<!--   <img align="center" title="TypeScript" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <img align="center" title="React" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" title="Git" alt="Igor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
-  <img align="center" title="Visual Studio Code (VS code)" alt="Igor-VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
-  <img align="center" title="Node.js" alt="Igor-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <a href="https://github.com/igorjba?tab=repositories&q=%23javascript&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="JavaScript" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" ></a>
+<!--   <a href="https://github.com/igorjba?tab=repositories&q=%23typescript&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="TypeScript" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a> -->
+  <a href="https://github.com/igorjba?tab=repositories&q=%23reactJS&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="React" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=%23html&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=CSS&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=%23npm&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=%23nodejs&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Node.js" alt="Igor-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=%23postgresql&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
   </div>
   <div>
   <img align="right" title="Olá, meu nome é Igor!" alt="Igor-image" height="150" style="border-radius:50px;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
