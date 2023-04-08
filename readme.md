@@ -3,9 +3,7 @@
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Português</a></td></tr>
 </table>
 
-<h1 align="center">Olá, bem vindo(a)!</h1>
-
-<h3 align="center">O meu nome é Igor Bahia</h3> 
+<h2 align="center">Olá, o meu nome é Igor Bahia</h3> 
 
 - 📚🧙🐉 Sou aficionado por livros de alta fantasia.
 - 🌊🏄‍ Desde pequeno, pratico surf.
