@@ -1,9 +1,9 @@
-<table>
+<table align="right">
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme-en.md">:us: English</a></td></tr>
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Português</a></td></tr>
 </table>
 
-<h2 align="center">Olá, o meu nome é Igor Bahia</h3> 
+<h1>Hey, me chamo Igor Bahia 👋</h1> 
 
 - 📚🧙🐉 Sou aficionado por livros de alta fantasia.
 - 🌊🏄‍ Desde pequeno, pratico surf.
