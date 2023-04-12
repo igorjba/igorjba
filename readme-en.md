@@ -1,10 +1,10 @@
-<table>
+<table align="right">
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme-en.md">:us: English</a></td></tr>
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Portuguese</a></td></tr>
 </table>
 
 
-<h2 align="center">Hello, my name is Igor Bahia</h3> 
+<h1 align="center">Hey, my name is Igor Bahia 👋</h1> 
 
 - 📚🧙🐉 I am a huge fan of high fantasy books.
 - 🌊🏄‍ I have been surfing since I was little.
