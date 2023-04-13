@@ -5,10 +5,6 @@
 
 <h1>Hey, me chamo Igor Bahia 👋</h1> 
 
-- 📚🧙🐉 Sou aficionado por livros de alta fantasia.
-- 🌊🏄‍ Desde pequeno, pratico surf.
-- 📸 Tenho fascínio por fotografia.
-- 🔍💻 Interesso-me por tecnologia desde a época do MIRC e ICQ.
 - 📖💻 Tive meu primeiro contato com programação em 2022.
 - 👨‍💻🎓 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 - 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
