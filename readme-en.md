@@ -6,10 +6,6 @@
 
 <h1 align="center">Hey, my name is Igor Bahia 👋</h1> 
 
-- 📚🧙🐉 I am a huge fan of high fantasy books.
-- 🌊🏄‍ I have been surfing since I was little.
-- 📸  I am fascinated by photography.
-- 🔍💻 I have been interested in technology since the days of MIRC and ICQ.
 - 📖💻 I had my first experience with programming in 2022.
 - 👨‍💻🎓 I am currently studying to become a full-stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 - 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
