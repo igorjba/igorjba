@@ -3,7 +3,7 @@
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Português</a></td></tr>
 </table>
 
-### Hey, me chamo Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+<h1>Hey, me chamo Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>  
 
 - 📖💻 Tive meu primeiro contato com programação em 2022.
 - 👨‍💻🎓 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
