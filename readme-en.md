@@ -4,7 +4,7 @@
 </table>
 
 
-<h1 align="center">Hey, my name is Igor Bahia 👋</h1> 
+<h1 align="center">Hey, my name is Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1> 
 
 - 📖💻 I had my first experience with programming in 2022.
 - 👨‍💻🎓 I am currently studying to become a full-stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
