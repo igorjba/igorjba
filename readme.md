@@ -9,7 +9,7 @@
 - 👨‍💻🎓 Estou me formando como desenvolvedor de software full stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 - 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
 - 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
-- 👨‍💻🤓📖 Atualmente, estou me aprofundando em 𝐑𝐞𝐚𝐜𝐭𝐉𝐒, 𝐀𝐏𝐈 𝐑𝐞𝐬𝐭 e 𝐒𝐐𝐋.
+- 👨‍💻🤓📖 Atualmente, estou me aprofundando em 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 e 𝐒𝐐𝐋.
 - 📫👨‍💼 Contate-me no linkedin: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
 
 
