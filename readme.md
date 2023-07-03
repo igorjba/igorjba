@@ -45,11 +45,4 @@
   <div align="center"> 
   <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Meu Linkedin" target="_blank"></a> 
   </div>
-  <br>
-	<div align="center"> 
-  <a href="https://www.frontendmentor.io/profile/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" title="Meu Frontend Mentor" target="_blank"></a> 
-  </div>
-<br>
-  <div align="center"> 
-  <a href="https://www.codewars.com/users/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/igorjba/badges/large" title="Meu Codewars" target="_blank"></a> 
- </div>
+

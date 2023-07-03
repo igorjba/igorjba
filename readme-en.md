@@ -47,9 +47,3 @@
   </div>
   <br>
 	<div align="center"> 
-  <a href="https://www.frontendmentor.io/profile/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white" title="My Frontend Mentor" target="_blank"></a> 
-  </div>
-<br>
-  <div align="center"> 
-  <a href="https://www.codewars.com/users/igorjba" target="_blank" rel="noopener noreferrer"><img src="https://www.codewars.com/users/igorjba/badges/large" title="My Codewars" target="_blank"></a> 
- </div>
