@@ -34,7 +34,7 @@
   <a href="https://github.com/igorjba?tab=repositories&q=%23postgresql&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
   </div>
   <div>
-  <img align="right" title="Hello, my name is Igor!" alt="Igor-image" height="150" style="border-radius: 50;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
+  <img align="right" title="Hello, my name is Igor!" alt="Igor-image" height="150" style="border-radius: 3.125 rem;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
   </div>
 
 ##  
