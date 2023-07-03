@@ -6,7 +6,7 @@
 <h1 align="center">Hey, me chamo Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>  
 
 - 📖💻 Tive meu primeiro contato com programação em 2022.
-- 👨‍💻🎓 Estou me formando como desenvolvedor full-stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 👨‍💻🎓 Estou me formando como desenvolvedor full stack na [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 - 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
 - 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
 - 👨‍💻🤓📖 Atualmente, estou me aprofundando em 𝐑𝐞𝐚𝐜𝐭𝐉𝐒, 𝐀𝐏𝐈 𝐑𝐞𝐬𝐭 e 𝐒𝐐𝐋.
@@ -36,6 +36,7 @@
 <!--   <div>
   <img align="right" title="Olá, meu nome é Igor!" alt="Igor-image" height="150" style="border-radius:50px;" src="https://i.ibb.co/zbt84WN/Igor-gif1.png">
   </div> -->
+  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="150" /></a>
 
 ##  
   <p align="left" title="Visitors"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
