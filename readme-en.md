@@ -43,7 +43,7 @@
   <br>
   <br>
   <div align="center"> 
-  <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="My Linkedin" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/zbt84WN/Igor-gif1.png" alt="Igor-gif1" border="0" /></a>" title="My Linkedin" target="_blank"></a> 
   </div>
   <br>
 	<div align="center"> 
