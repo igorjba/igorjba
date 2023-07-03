@@ -10,7 +10,7 @@
 - 👨‍💻🎓 I am currently studying to become a full stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
 - 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
 - 🖥️📚 I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
-- 👨‍💻🤓📖 Currently, I'm delving into 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 and 𝐒𝐐𝐋.
+- 👨‍💻🤓📖 Currently, i'm delving into 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 and 𝐒𝐐𝐋.
 - 📫👨‍💼 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
   
 ##
