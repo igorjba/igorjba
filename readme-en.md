@@ -8,8 +8,8 @@
 
 - 📖💻 I had my first experience with programming in 2022.
 - 👨‍💻 Full stack software developer from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) (1-year intensive course).
-- 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
-- 🖥️📚 I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1]
+- 🖥️📚 I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1]
 - 👨‍💻🤓📖 Currently, i'm delving into 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 and 𝐒𝐐𝐋.
 - 📫👨‍💼 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
   
