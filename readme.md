@@ -7,8 +7,8 @@
 
 - 📖💻 Tive meu primeiro contato com programação em 2022.
 - 👨‍💻 Sou desenvolvedor de software full stack formado pela Cubos Academy [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) (curso intensivo de 1 ano).  
-- 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/)
-- 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
+- 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1]
+- 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1]
 - 👨‍💻🤓📖 Atualmente, estou me aprofundando em 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 e 𝐒𝐐𝐋.
 - 📫👨‍💼 Contate-me no linkedin: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
 
