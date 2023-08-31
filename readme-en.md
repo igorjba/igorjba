@@ -7,7 +7,7 @@
 <h1 align="center">Hey, my name is Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1> 
 
 - 📖💻 I had my first experience with programming in 2022.
-- 👨‍💻🎓 I am currently studying to become a full stack software developer at [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) 
+- 👨‍💻 Full stack software developer from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) (1-year intensive course).
 - 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/)
 - 🖥️📚 I am also studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/)
 - 👨‍💻🤓📖 Currently, i'm delving into 𝐑𝐞𝐚𝐜𝐭𝐉𝐒 and 𝐒𝐐𝐋.
