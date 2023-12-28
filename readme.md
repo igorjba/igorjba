@@ -33,6 +33,8 @@
   <a href="https://github.com/igorjba?tab=repositories&q=%23postgresql&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
   <a href="https://github.com/igorjba?tab=repositories&q=%23prisma&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Prisma" alt="Igor-Prisma" height="30" width="40" src="https://devicons.dev.br/icons?icon=Prisma&size=40&theme=light&perline=1"></a>
   <a href="https://github.com/igorjba?tab=repositories&q=%23fastify&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Fastify" alt="Igor-Fastify" height="30" width="30" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png"></a>
+  <a href="https://github.com/igorjba?tab=repositories&q=%23nestjs&type=&language=&sort=" target="_blank" rel="noopener noreferrer">
+    <img align="center" title="NestJS" alt="Igor-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></a
 
 
   </div>
