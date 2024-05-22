@@ -5,12 +5,12 @@
 
 <h1 align="center">Hey, me chamo Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>  
 
-- 👨‍💼👨‍💻 Atualmente trabalho para o [Instituto de Pesquisa Lactec](https://www.linkedin.com/company/lactec/)
-- 👨‍💻 Sou desenvolvedor de software full stack formado pela [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software)
-- 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1]
-- 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1]
+- 👨‍💼👨‍💻 Atualmente trabalho para o [Instituto de Pesquisa Lactec](https://www.linkedin.com/company/lactec/).
+- 👨‍💻 Sou desenvolvedor de software full stack formado pela [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software).
+- 🧑‍🎓📚 Sou graduando em Análise e Desenvolvimento de Software pela [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1].
+- 🖥️📚 Também estou cursando Engenharia da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1].
 - 👨‍💻🤓📖 Atualmente, estou me aprofundando em Typescript.
-- 📫👨‍💼 Contate-me no LinkedIn: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b)
+- 📫👨‍💼 Contate-me no LinkedIn: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b).
 
 
 ##
