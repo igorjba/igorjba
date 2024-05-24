@@ -10,7 +10,7 @@
 - 👨‍💻 I'm a Full Stack Software Developer, graduated from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) and currently working for Cubos Academy.
 - 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1].
 - 🖥️📚 I am studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1].
-- 👨‍💻🤓📖 Currently, I'm delving into TypeScript.
+- 👨‍💻🤓📖 Currently, I'm delving into C#.
 - 📫👨‍💼 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b).
   
 ##
