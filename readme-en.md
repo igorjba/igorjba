@@ -7,7 +7,7 @@
 <h1 align="center">Hey, my name is Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1> 
 
 - 👨‍💼👨‍💻 I currently working for [Lactec Research Institute](https://www.linkedin.com/company/lactec/).
-- 👨‍💻 I'm a Full Stack Software Developer, graduated from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) and currently working for Cubos Academy.
+- 👨‍💻 I'm a Full Stack Software Developer, graduated from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software).
 - 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1].
 - 🖥️📚 I am studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1].
 - 👨‍💻🤓📖 Currently, I'm delving into C#.
