@@ -3,50 +3,201 @@
  <tr align="center"><td><a href="https://github.com/igorjba/igorjba/blob/main/readme.md">:brazil: Portuguese</a></td></tr>
 </table>
 
+<div align="center">
 
-<h1 align="center">Hey, my name is Igor Bahia <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Igor+Bahia;Full+Stack+Software+Engineer;Distributed+systems+and+enterprise+integrations;From+industrial+mechanic+to+software+engineer" alt="Igor Bahia" />
 
-- 👨‍💼👨‍💻 I currently working for [Lactec Research Institute](https://www.linkedin.com/company/lactec/).
-- 👨‍💻 I'm a Full Stack Software Developer, graduated from [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software).
-- 🧑‍🎓📚💻 I am also a student of Software Analysis and Development at [Universidade UNIFACS](https://www.unifacs.br/) [2022.2 - 2025.1].
-- 🖥️📚 I am studying Computer Engineering at [Faculdade Descomplica](https://descomplica.com.br/faculdade/) [2022.2 - 2027.1].
-- 👨‍💻🤓📖 Currently, I'm delving into C#.
-- 📫👨‍💼 To contact me, please visit my LinkedIn profile: [www.linkedin.com/in/igor-bahia-31b7b06b](https://www.linkedin.com/in/igor-bahia-31b7b06b).
-  
-##
+<p>
+  <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-igorjba.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/GDG%20Organizer-202124?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI%2BPHBhdGggZmlsbD0iI0VBNDMzNSIgZD0iTTI0IDkuNWMzLjU0IDAgNi43MSAxLjIyIDkuMjEgMy42bDYuODUtNi44NUMzNS45IDIuMzggMzAuNDcgMCAyNCAwIDE0LjYyIDAgNi41MSA1LjM4IDIuNTYgMTMuMjJsNy45OCA2LjE5QzEyLjQzIDEzLjcyIDE3Ljc0IDkuNSAyNCA5LjV6Ii8%2BPHBhdGggZmlsbD0iIzQyODVGNCIgZD0iTTQ2Ljk4IDI0LjU1YzAtMS41Ny0uMTUtMy4wOS0uMzgtNC41NUgyNHY5LjAyaDEyLjk0Yy0uNTggMi45Ni0yLjI2IDUuNDgtNC43OCA3LjE4bDcuNzMgNmM0LjUxLTQuMTggNy4wOS0xMC4zNiA3LjA5LTE3LjY1eiIvPjxwYXRoIGZpbGw9IiNGQkJDMDUiIGQ9Ik0xMC41MyAyOC41OWMtLjQ4LTEuNDUtLjc2LTIuOTktLjc2LTQuNTlzLjI3LTMuMTQuNzYtNC41OWwtNy45OC02LjE5Qy45MiAxNi40NiAwIDIwLjEyIDAgMjRjMCAzLjg4LjkyIDcuNTQgMi41NiAxMC43OGw3Ljk3LTYuMTl6Ii8%2BPHBhdGggZmlsbD0iIzM0QTg1MyIgZD0iTTI0IDQ4YzYuNDggMCAxMS45My0yLjEzIDE1Ljg5LTUuODFsLTcuNzMtNmMtMi4xNSAxLjQ1LTQuOTIgMi4zLTguMTYgMi4zLTYuMjYgMC0xMS41Ny00LjIyLTEzLjQ3LTkuOTFsLTcuOTggNi4xOUM2LjUxIDQyLjYyIDE0LjYyIDQ4IDI0IDQ4eiIvPjwvc3ZnPgo%3D" alt="GDG Organizer" />
+</p>
+
+</div>
+
+---
+
+### 👋 About
+
+I started my career with a pipe wrench in hand, maintaining pumps and compressors at Transpetro/Petrobras terminals. That was about 8 years in critical industrial environments. The lesson that stuck with me: a good system is a system that doesn't go down.
+
+Today I work at the [Lactec Research Institute](https://www.linkedin.com/company/lactec/), modernizing high-criticality enterprise platforms. I build interfaces decoupled from legacy systems, backends in C#/.NET, Python and Node, and integrate distributed ecosystems with federated auth. I think about failure and observability before they turn into incidents.
+
+Outside the code, I've been organizing GDG Salvador since 2023. Between 2023 and 2024 I was also an organizer at DevOpsDays Salvador, where I contributed to the event's international website, an open source project built with Go/Hugo.
+
+<br>
+
+### 🔀 The career, as a pipeline
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#1f2937','primaryTextColor':'#f9fafb','primaryBorderColor':'#58a6ff','lineColor':'#58a6ff','secondaryColor':'#0f172a','tertiaryColor':'#0f172a','fontFamily':'Fira Code, monospace'}}}%%
+flowchart LR
+    A["🔧 Pipe wrench<br/>2008"] --> B["📋 Planning<br/>SAP/R3"]
+    B --> C["💻 First commit<br/>2022"]
+    C --> D["🚀 Full Stack<br/>React · Node"]
+    D --> E["⚡ Lactec<br/>Smart Grid · .NET · Python"]
+    E --> F{{"🔮 Next<br/>incident"}}
+```
+
+<br>
+
+### 🛠️ What I'm working on
+
+- International projects in the **Landis+Gyr** ecosystem: smart metering applications used globally, across AMI, RF Mesh and DLMS/COSEM environments.
+- Legacy modernization: new Next.js/TypeScript interfaces, decoupled from the old systems, without stopping operations.
+- Enterprise integrations: REST APIs, Keycloak/JWT, multiple services and plenty of distributed systems troubleshooting.
+- Studying distributed architecture and observability.
+
+<br>
+
+### 🧰 Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra & Auth</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Keycloak-008AAA?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Community & OSS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" alt="Hugo" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Domain</b></td>
+    <td>
+      <sub>Smart Grid · AMI · RF Mesh · DLMS/COSEM · Distributed architecture · SAP/R3 · Operational reliability</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 💡 Some highlights
+
+| | |
+|---|---|
+| ⚡ **Landis+Gyr / Smart Grid** | Smart metering applications used globally, built with multinational teams. |
+| ♻️ **Salvador Carnival recycling** | Traceability and logistics monitoring platform for the operation. Around 140 tons of waste recycled and international recognition at Climate Week NYC. |
+| 🏭 **Transpetro / Petrobras** | About 8 years planning maintenance for thousands of critical assets via SAP/R3, where equipment downtime is expensive. |
+| 🎤 **GDG Salvador** | Organizer since 2023: DevFest, Google I/O Extended, Build With AI and technical meetups. |
+| 🐹 **DevOpsDays Salvador** | Organizer between 2023 and 2024. Contributed to the event's international website ([devopsdays.org](https://www.devopsdays.org)), an open source project built with Go/Hugo. |
+
+<br>
+
 <details>
-  <summary>Github stats...</summary>
+  <summary><b>🚨 Postmortem: INC-2022-001</b></summary>
+  <br>
+
+  **Severity:** P1 · **Status:** resolved · **Exposure time:** ~14 years
+
+  **Summary**
+  During a routine preventive maintenance, the mechanic on duty noticed he enjoyed automating the maintenance report more than doing the maintenance.
+
+  **Impact**
+  An entire career redirected. No centrifugal pump was harmed in the process.
+
+  **Root cause**
+  Prolonged exposure to legacy systems and spreadsheets with business rules hidden inside them. The operator realized all of that could be code, and there was no going back.
+
+  **Timeline**
+  `2008` first contact with a critical asset
+  `2013` realizes SAP has logic, and that logic can be written
+  `2022` first commit
+  `2024` returns to the power sector, now from the keyboard side
+
+  **Action items**
+  - [x] Learn to code
+  - [x] Trade the pipe wrench for a keyboard
+  - [x] Bring the uptime obsession along for the move
+  - [ ] Stop thinking about failure modes before falling asleep <sub>(won't fix: it's a feature)</sub>
+
+</details>
+
+<details>
+  <summary><b>📊 GitHub stats</b></summary>
+  <br>
   <div align="center">
-  <a href="https://github.com/igorjba">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=igorjba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide="/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=igorjba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
   </div>
 </details>
-	
-<div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/igorjba?tab=repositories&q=&type=&language=c%23&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Csharp" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" ></a>             
-  <a href="https://github.com/igorjba?tab=repositories&q=%23javascript&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="JavaScript" alt="Igor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" ></a>      
-  <a href="https://github.com/igorjba?tab=repositories&q=%23typescript&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="TypeScript" alt="Igor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>         
-  <a href="https://github.com/igorjba?tab=repositories&q=%23reactJS&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="React" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23html&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=CSS&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23npm&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="npm" alt="Igor-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23nodejs&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Node.js" alt="Igor-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23postgresql&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="PostgreSQL" alt="Igor-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23prisma&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Prisma" alt="Igor-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"></a>
-  <a href="https://github.com/igorjba?tab=repositories&q=%23fastify&type=&language=&sort=" target="_blank" rel="noopener noreferrer"><img align="center" title="Fastify" alt="Igor-Fastify" height="30" width="30" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png"></a>
 
+<details>
+  <summary><b>🎓 Education & certifications</b></summary>
+  <br>
 
-  </div>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="150" /></a>
+  - **Systems Analysis and Development** — [UNIFACS](https://www.unifacs.br/) · 2022 to 2025
+  - **Software Development** — [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software) · 2022 to 2023
+  - **Mechanical Technician** — Centro de Formação Técnica da Bahia · 2010 to 2011
 
-##  
-  <p align="left" title="Visitors"> <img src="https://komarev.com/ghpvc/?username=igorjba&color=blue" alt="Profile views" /> </p>
-  <br>
-  <br>
-  <br>
-  <div align="center"> 
-  <a href="https://www.linkedin.com/in/igor-bahia-31b7b06b" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="My Linkedin" target="_blank"></a> 
-  </div>
-  <br>
-	<div align="center"> 
+  <sub>Certifications: JavaScript Developer · Python (IBM) · Uncomplicating DevOps · Agile Explorer</sub>
+  <br><br>
+  <sub>Languages: Portuguese (native) · English (professional) · Spanish (basic)</sub>
+</details>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub><b>SYSTEM STATUS</b></sub>
+<br>
+<img src="https://img.shields.io/badge/uptime-99.9%25-brightgreen?style=flat-square" alt="uptime 99.9%" />
+<img src="https://img.shields.io/badge/coffee-operational-brightgreen?style=flat-square" alt="coffee: operational" />
+<img src="https://img.shields.io/badge/friday%20deploy-degraded-orange?style=flat-square" alt="friday deploy: degraded" />
+<img src="https://img.shields.io/badge/%22works%20on%20my%20machine%22-outage-red?style=flat-square" alt="works on my machine: outage" />
+
+<br><br>
+
+**Open to talk about distributed systems, platform modernization and enterprise integrations.**
+
+<a href="https://www.linkedin.com/in/igor-bahia-31b7b06b"><img src="https://img.shields.io/badge/Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br><br>
+
+<img src="assets/cat.svg" width="210" alt="Black cat blinking, wagging its tail and meowing" />
+
+<sub>Scrolled all the way down? The cat approves.</sub>
+
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=igorjba&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
+
+</div>

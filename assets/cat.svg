@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 165" width="250" height="165" role="img" aria-label="Gato preto que pisca, balança o rabo e treme ao miar">
+  <title>miau</title>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0 0; 0 0; -3.5 2; 3.5 -2; -3.5 -2; 3.5 2; -2.5 1; 2.5 -1; -1 0; 0 0; 0 0"
+      keyTimes="0; 0.50; 0.515; 0.53; 0.545; 0.56; 0.575; 0.59; 0.605; 0.62; 1"
+      dur="6s" repeatCount="indefinite" />
+
+    <g fill="none" stroke="#F5A623" stroke-width="2.5" stroke-linejoin="round">
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate"
+          values="0 143 126; -15 143 126; 0 143 126; 11 143 126; 0 143 126"
+          dur="3.2s" repeatCount="indefinite"
+          calcMode="spline" keyTimes="0;0.25;0.5;0.75;1"
+          keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1" />
+        <path d="M143 126 q36 -3 31 -42" stroke="#1C1C1C" stroke-width="11" stroke-linecap="round" />
+        <path d="M143 126 q36 -3 31 -42" stroke="#F5A623" stroke-width="1.5" stroke-linecap="round" opacity="0.55" />
+      </g>
+
+      <ellipse cx="100" cy="120" rx="45" ry="30" fill="#1C1C1C" />
+      <ellipse cx="78" cy="145" rx="15" ry="7" fill="#1C1C1C" />
+      <ellipse cx="122" cy="145" rx="15" ry="7" fill="#1C1C1C" />
+      <path d="M76 102 q24 13 48 0" stroke="#F5A623" stroke-width="4" stroke-linecap="round" />
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate"
+          values="0 100 64; -3.5 100 64; 0 100 64; 2.5 100 64; 0 100 64"
+          dur="6s" repeatCount="indefinite" />
+
+        <path d="M70 40 L61 8 L97 27 Z" fill="#1C1C1C" />
+        <path d="M130 40 L139 8 L103 27 Z" fill="#1C1C1C" />
+        <path d="M75 35 L70 18 L88 28 Z" fill="#A8D5BA" stroke-width="1.5" />
+        <path d="M125 35 L130 18 L112 28 Z" fill="#A8D5BA" stroke-width="1.5" />
+
+        <circle cx="100" cy="64" r="40" fill="#1C1C1C" />
+
+        <ellipse cx="84" cy="60" rx="10.5" ry="13" fill="#FDF6C9" stroke-width="1.5">
+          <animate attributeName="ry" values="13;13;13;1;13;13;13;13;13;1;13;13"
+            dur="6s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse cx="116" cy="60" rx="10.5" ry="13" fill="#FDF6C9" stroke-width="1.5">
+          <animate attributeName="ry" values="13;13;13;1;13;13;13;13;13;1;13;13"
+            dur="6s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse cx="84" cy="60" rx="4.5" ry="9.5" fill="#1C1C1C" stroke="none">
+          <animate attributeName="ry" values="9.5;9.5;9.5;0.5;9.5;9.5;9.5;9.5;9.5;0.5;9.5;9.5"
+            dur="6s" repeatCount="indefinite" />
+        </ellipse>
+        <ellipse cx="116" cy="60" rx="4.5" ry="9.5" fill="#1C1C1C" stroke="none">
+          <animate attributeName="ry" values="9.5;9.5;9.5;0.5;9.5;9.5;9.5;9.5;9.5;0.5;9.5;9.5"
+            dur="6s" repeatCount="indefinite" />
+        </ellipse>
+
+        <path d="M94 78 L106 78 L100 85 Z" fill="#F5A623" stroke-width="1.5" />
+        <path d="M100 85 q-6 7 -12 2 M100 85 q6 7 12 2" stroke="#F5A623" stroke-width="2" stroke-linecap="round">
+          <animate attributeName="d"
+            values="M100 85 q-6 7 -12 2 M100 85 q6 7 12 2;
+                    M100 85 q-6 7 -12 2 M100 85 q6 7 12 2;
+                    M100 84 q-7 11 -13 4 M100 84 q7 11 13 4;
+                    M100 84 q-7 11 -13 4 M100 84 q7 11 13 4;
+                    M100 85 q-6 7 -12 2 M100 85 q6 7 12 2;
+                    M100 85 q-6 7 -12 2 M100 85 q6 7 12 2"
+            keyTimes="0; 0.48; 0.54; 0.76; 0.84; 1"
+            dur="6s" repeatCount="indefinite" />
+        </path>
+
+        <path d="M58 62 L38 57 M58 70 L38 70 M142 62 L162 57 M142 70 L162 70"
+          stroke="#F5A623" stroke-width="1.8" stroke-linecap="round" opacity="0.75" />
+      </g>
+
+      <g>
+        <animate attributeName="opacity" values="0;0;0;1;1;1;0;0"
+          dur="6s" repeatCount="indefinite" keyTimes="0;0.42;0.5;0.56;0.68;0.78;0.84;1" />
+        <path d="M180 22 h48 a9 9 0 0 1 9 9 v22 a9 9 0 0 1 -9 9 h-24 l-11 11 v-11 h-13 a9 9 0 0 1 -9 -9 v-22 a9 9 0 0 1 9 -9 z"
+          fill="#F5A623" stroke="#F5A623" />
+        <text x="204" y="49" font-family="'Fira Code','DejaVu Sans Mono',monospace" font-size="16"
+          font-weight="700" fill="#1C1C1C" text-anchor="middle" stroke="none">miau</text>
+      </g>
+
+    </g>
+  </g>
+</svg>
