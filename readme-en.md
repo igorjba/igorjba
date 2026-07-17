@@ -37,6 +37,8 @@ flowchart LR
     C --> D["🚀 Full Stack<br/>React · Node"]
     D --> E["⚡ Lactec<br/>Smart Grid · .NET · Python"]
     E --> F{{"🔮 Next<br/>incident"}}
+    F ~~~ GAP[" "]
+    style GAP fill:transparent,stroke:transparent
 ```
 
 <br>
@@ -193,9 +195,9 @@ flowchart LR
 
 <br><br>
 
-<img src="assets/cat.svg" width="210" alt="Black cat blinking, wagging its tail and meowing" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="190" alt="Black cat growling inside a ring, a parody of the MGM opening" />
 
-<sub>Scrolled all the way down? The cat approves.</sub>
+<sub><i>ars gratia gattis</i></sub>
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=igorjba&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
