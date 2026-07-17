@@ -186,7 +186,7 @@ flowchart LR
 
 <br><br>
 
-<img src="assets/cat.svg" width="200" alt="Gato preto rosnando dentro de um anel dourado, no estilo da vinheta de abertura da MGM" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="190" alt="Gato preto rosnando dentro de um anel, paródia da vinheta da MGM" />
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=igorjba&color=58a6ff&style=flat-square&label=Visitantes" alt="Visitantes" />

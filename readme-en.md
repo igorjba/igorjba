@@ -186,7 +186,7 @@ flowchart LR
 
 <br><br>
 
-<img src="assets/cat.svg" width="200" alt="Black cat growling inside a golden ring, in the style of the MGM opening title" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="190" alt="Black cat growling inside a ring, a parody of the MGM opening" />
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=igorjba&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
