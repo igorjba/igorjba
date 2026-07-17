@@ -153,15 +153,6 @@ flowchart LR
 </details>
 
 <details>
-  <summary><b>📊 GitHub stats</b></summary>
-  <br>
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=igorjba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjba&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </div>
-</details>
-
-<details>
   <summary><b>🎓 Education & certifications</b></summary>
   <br>
 
@@ -195,9 +186,7 @@ flowchart LR
 
 <br><br>
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="190" alt="Black cat growling inside a ring, a parody of the MGM opening" />
-
-<sub><i>ars gratia gattis</i></sub>
+<img src="assets/cat.svg" width="200" alt="Black cat growling inside a golden ring, in the style of the MGM opening title" />
 
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=igorjba&color=58a6ff&style=flat-square&label=Visitors" alt="Visitors" />
